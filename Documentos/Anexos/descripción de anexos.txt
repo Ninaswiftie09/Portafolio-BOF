@@ -1,0 +1,92 @@
+1. FOTOS DE REUNIONES
+---------------------
+
+Contenido:
+- Fotografías de las sesiones de trabajo del equipo durante los diferentes sprints
+- Imágenes de las reuniones del Sprint 11 y otras ceremonias ágiles
+- Fotos de sesiones de planificación, retrospectivas y demos
+
+Para qué se usó:
+- Documentar la participación activa del equipo en las ceremonias ágiles
+- Evidenciar el trabajo colaborativo presencial/virtual
+- Registrar decisiones importantes tomadas en las reuniones
+
+Relevancia en el proyecto:
+- Sección de gestión de proyecto y metodología ágil
+- Evidencia del cumplimiento de ceremonias Scrum
+- Documentación del proceso de desarrollo colaborativo
+
+
+2. EVIDENCIA DE USO DE JIRA
+---------------------------
+
+Contenido:
+- Screenshots del tablero Kanban/Scrum por cada sprint
+- Capturas del backlog del producto y sprints individuales
+- Imágenes de user stories, tareas y subtareas creadas
+- Gráficas de burndown charts y velocity charts
+- Estado de issues (To Do, In Progress, Done)
+
+Para qué se usó:
+- Demostrar el seguimiento del proyecto mediante herramientas de gestión ágil
+- Evidenciar la planificación y ejecución de cada sprint
+- Mostrar la distribución de tareas entre los miembros del equipo
+- Documentar el progreso del proyecto a lo largo del tiempo
+
+Relevancia en el proyecto:
+- Gestión de proyecto y control de avance
+- Planificación de sprints y estimación de esfuerzo
+- Tracking de requisitos funcionales y no funcionales
+- Retrospectivas y análisis de rendimiento del equipo
+
+
+3. BITÁCORAS DE TIEMPO
+----------------------
+
+Contenido:
+- Registros detallados del tiempo invertido por cada miembro del equipo
+- Desglose de horas por sprint y por actividad
+- Tiempo dedicado a: desarrollo, testing, reuniones, documentación, investigación
+
+Para qué se usó:
+- Controlar el esfuerzo real invertido en el proyecto
+- Comparar estimaciones vs. tiempo real
+- Identificar áreas que requirieron más tiempo del previsto
+- Justificar la dedicación del equipo al proyecto
+
+Relevancia en el proyecto:
+- Gestión de recursos y planificación
+- Análisis de productividad
+- Documentación para reportes de avance
+- Lessons learned sobre estimación de esfuerzo
+
+
+4. CAPTURAS DE LA APLICACIÓN FUNCIONANDO
+----------------------------------------
+
+Contenido:
+- Screenshots de las principales funcionalidades de BOF en operación
+- Capturas del flujo de usuario completo
+- Imágenes de casos de uso implementados
+- Screenshots de la interfaz de usuario en diferentes estados
+- Evidencia de features específicas funcionando correctamente
+
+Para qué se usó:
+- Demostrar que las funcionalidades desarrolladas están operativas
+- Mostrar la interfaz de usuario final
+- Evidenciar el cumplimiento de requisitos funcionales
+- Documentar el look & feel de la aplicación
+
+Relevancia en el proyecto:
+- Validación de requisitos implementados
+- Documentación técnica y de usuario
+- Material para presentaciones y demos
+- Evidencia de pruebas de aceptación
+OTAS IMPORTANTES:
+==================
+
+- Todos los anexos están organizados por sprint cuando es aplicable
+- Los nombres de archivos siguen la nomenclatura: [Tipo]_Sprint[Número]_[Descripción]
+- Las capturas de pantalla incluyen fecha y hora para trazabilidad
+- Los archivos grandes (videos) pueden estar comprimidos o con enlaces externos
+- Cada anexo contribuye a demostrar el cumplimiento de los objetivos del proyecto BOF
